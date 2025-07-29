@@ -1,4 +1,4 @@
-package com.kiamisa.store.kiamisa_store;
+package com.kiamisa.store;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
